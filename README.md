@@ -1,5 +1,4 @@
-# CustomerChurnAnalysis
-Customer Churn Analysis Dashboard 
+
 # Customer Churn Analysis: Interactive Tableau Dashboard
 Tableau Dashboard to analyze Customer Churn through a systematic approach encompassing data cleaning, data processing, data analysis, and data visualization. Incorporating a variety of visuals such as bar charts, pie charts, donut charts, column charts, tables, KPI cards, and filters, where key trends and patterns within the dataset were effectively uncovered.
 
